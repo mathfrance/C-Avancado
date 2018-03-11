@@ -1,0 +1,8 @@
+C:\Users\matheus.pinheiro\AppData\Local\Temporary Projects\01_LINQ\bin\Debug\01_LINQ.exe
+C:\Users\matheus.pinheiro\AppData\Local\Temporary Projects\01_LINQ\bin\Debug\01_LINQ.pdb
+C:\Users\matheus.pinheiro\AppData\Local\Temporary Projects\01_LINQ\obj\x86\Debug\01_LINQ.exe
+C:\Users\matheus.pinheiro\AppData\Local\Temporary Projects\01_LINQ\obj\x86\Debug\01_LINQ.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\01_LINQ\obj\x86\Debug\01_LINQ.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\01_LINQ\obj\x86\Debug\01_LINQ.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\01_LINQ\bin\Debug\01_LINQ.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\01_LINQ\bin\Debug\01_LINQ.pdb

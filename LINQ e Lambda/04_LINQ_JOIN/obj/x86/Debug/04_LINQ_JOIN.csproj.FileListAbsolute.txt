@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\04_LINQ_JOIN\obj\x86\Debug\04_LINQ_JOIN.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\LINQ e LAMBDA\04_LINQ_JOIN\obj\x86\Debug\04_LINQ_JOIN.pdb

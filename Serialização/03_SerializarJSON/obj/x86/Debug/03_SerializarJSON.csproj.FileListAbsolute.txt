@@ -1,0 +1,7 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\obj\x86\Debug\03_SerializarJSON.csprojResolveAssemblyReference.cache
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\bin\Debug\00_Biblioteca.dll
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\bin\Debug\00_Biblioteca.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\obj\x86\Debug\03_SerializarJSON.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\03_SerializarJSON\obj\x86\Debug\03_SerializarJSON.pdb

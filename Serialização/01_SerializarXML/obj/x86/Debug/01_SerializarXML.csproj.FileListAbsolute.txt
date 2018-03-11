@@ -1,0 +1,7 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\bin\Debug\01_SerializarXML.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\bin\Debug\01_SerializarXML.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\bin\Debug\00_Biblioteca.dll
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\bin\Debug\00_Biblioteca.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\obj\x86\Debug\01_SerializarXML.csprojResolveAssemblyReference.cache
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\obj\x86\Debug\01_SerializarXML.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\01_SerializarXML\obj\x86\Debug\01_SerializarXML.pdb

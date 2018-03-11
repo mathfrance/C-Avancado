@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\00_Biblioteca\bin\Debug\00_Biblioteca.dll
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\00_Biblioteca\bin\Debug\00_Biblioteca.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\00_Biblioteca\obj\Debug\00_Biblioteca.dll
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\00_Biblioteca\obj\Debug\00_Biblioteca.pdb

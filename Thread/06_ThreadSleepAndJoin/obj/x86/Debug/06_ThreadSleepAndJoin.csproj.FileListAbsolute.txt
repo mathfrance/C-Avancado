@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\06_ThreadSleepAndJoin\bin\Debug\06_ThreadSleepAndJoin.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\06_ThreadSleepAndJoin\bin\Debug\06_ThreadSleepAndJoin.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\06_ThreadSleepAndJoin\obj\x86\Debug\06_ThreadSleepAndJoin.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\06_ThreadSleepAndJoin\obj\x86\Debug\06_ThreadSleepAndJoin.pdb

@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\03_ValidacaoCustomizada\bin\Debug\03_ValidacaoCustomizada.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\03_ValidacaoCustomizada\bin\Debug\03_ValidacaoCustomizada.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\03_ValidacaoCustomizada\obj\x86\Debug\03_ValidacaoCustomizada.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\03_ValidacaoCustomizada\obj\x86\Debug\03_ValidacaoCustomizada.pdb

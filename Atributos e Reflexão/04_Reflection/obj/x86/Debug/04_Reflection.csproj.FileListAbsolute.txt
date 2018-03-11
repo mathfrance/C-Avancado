@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\04_Reflection\bin\Debug\04_Reflection.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\04_Reflection\bin\Debug\04_Reflection.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\04_Reflection\obj\x86\Debug\04_Reflection.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\04_Reflection\obj\x86\Debug\04_Reflection.pdb

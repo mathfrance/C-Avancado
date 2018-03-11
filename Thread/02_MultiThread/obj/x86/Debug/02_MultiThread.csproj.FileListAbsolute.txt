@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\02_MultiThread\bin\Debug\02_MultiThread.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\02_MultiThread\bin\Debug\02_MultiThread.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\02_MultiThread\obj\x86\Debug\02_MultiThread.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\02_MultiThread\obj\x86\Debug\02_MultiThread.pdb

@@ -1,0 +1,6 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\obj\x86\Debug\_02_Validacao.Idiomas.Linguagem.resources
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\obj\x86\Debug\02_Validacao.csproj.GenerateResource.Cache
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\bin\Debug\02_Validacao.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\bin\Debug\02_Validacao.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\obj\x86\Debug\02_Validacao.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Atributos e Reflexão\02_Validacao\obj\x86\Debug\02_Validacao.pdb

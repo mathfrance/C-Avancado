@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\01_Thread\bin\Debug\01_Thread.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\01_Thread\bin\Debug\01_Thread.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\01_Thread\obj\x86\Debug\01_Thread.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\01_Thread\obj\x86\Debug\01_Thread.pdb

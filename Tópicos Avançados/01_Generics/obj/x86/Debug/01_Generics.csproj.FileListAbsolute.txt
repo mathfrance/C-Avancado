@@ -1,0 +1,5 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Tópicos Avançados\01_Generics\obj\x86\Debug\01_Generics.csprojResolveAssemblyReference.cache
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Tópicos Avançados\01_Generics\bin\Debug\01_Generics.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Tópicos Avançados\01_Generics\bin\Debug\01_Generics.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Tópicos Avançados\01_Generics\obj\x86\Debug\01_Generics.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Tópicos Avançados\01_Generics\obj\x86\Debug\01_Generics.pdb

@@ -1,0 +1,6 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\bin\Debug\02_DeserializarXML.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\bin\Debug\02_DeserializarXML.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\bin\Debug\00_Biblioteca.dll
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\bin\Debug\00_Biblioteca.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\obj\x86\Debug\02_DeserializarXML.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Serialização\02_DeserializarXML\obj\x86\Debug\02_DeserializarXML.pdb

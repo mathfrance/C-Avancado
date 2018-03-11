@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Delegantes e Eventos\Delegantes e Eventos\bin\Debug\Delegantes e Eventos.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Delegantes e Eventos\Delegantes e Eventos\bin\Debug\Delegantes e Eventos.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Delegantes e Eventos\Delegantes e Eventos\obj\x86\Debug\Delegantes e Eventos.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Delegantes e Eventos\Delegantes e Eventos\obj\x86\Debug\Delegantes e Eventos.pdb

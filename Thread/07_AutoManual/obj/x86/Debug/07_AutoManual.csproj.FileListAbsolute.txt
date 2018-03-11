@@ -1,0 +1,4 @@
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\07_AutoManual\bin\Debug\07_AutoManual.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\07_AutoManual\bin\Debug\07_AutoManual.pdb
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\07_AutoManual\obj\x86\Debug\07_AutoManual.exe
+C:\Users\matheus.pinheiro\Documents\Visual Studio 2010\Projects\C# Avançado\Delegate e Eventos\Thread\07_AutoManual\obj\x86\Debug\07_AutoManual.pdb
